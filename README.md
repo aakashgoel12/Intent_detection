@@ -4,10 +4,10 @@ Below is Directory Information:
 1) docs --> Model Architecture, Approach paper
 2) input --> Contain data for training and testing (Used V2 version of data)
 3) code --> Contain Jupyter Notebook for EDA, Model Training (Fine-Tuning)
-4) output --> 
+4) output --> Contain Predictions on Train, Val and Test
 
 ## To-DO
-* Reduce Oerfitting
+* Reduce Overfitting
 * Model Upload
 * Create Sample Web App
 * Experiment with different version of BERT (HyperParameter Setting)
